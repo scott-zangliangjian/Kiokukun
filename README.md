@@ -9,7 +9,7 @@ I feel, besides grammar, reading, listening, speaking, etc,
 one fundamental and important thing for studying foreign languages is
 just memorizing the new words.
 So I need a tool to help me memorize new words,
-which I can use anywhere at any time.
+which I can use on my laptop and mobile phone easily.
 
 ## Design
 
