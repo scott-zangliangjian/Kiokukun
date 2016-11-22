@@ -4,12 +4,8 @@ a tool to help you remember new words when studying foreign languages
 
 ## Motivation
 
-As a Chinese working in Japan, I spent lots of time to study foriegn languages.
-I feel, besides grammar, reading, listening, speaking, etc,
-one fundamental and important thing for studying foreign languages is
-just memorizing the new words.
-So I need a tool to help me memorize new words,
-which I can use anywhere at any time.
+So I need a tool to help me memorize new words when studying foreign languages,
+which I can use on my laptop and mobile phone easily.
 
 ## Design
 
